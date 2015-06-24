@@ -391,7 +391,7 @@ img {
   transform: rotate(-45deg) translate(7px, -8px); }
 
 #menu {
-  color: #000;
+  color: #FFFFFF;
   height: 105px;
   position: relative;
   top: 50px;
@@ -416,7 +416,7 @@ img {
   line-height: 0; }
 
 #menu a {
-  color: #000;
+  color: #FFFFFF;
   font-weight: 900; }
 
 /* ==================================================================================================================
